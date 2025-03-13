@@ -58,7 +58,7 @@ It allows users to **discover, share, and manage campgrounds** effortlessly.
    cd yelpcamp
 
 2. **run on local**  
-npm install []
+npm install
 - ejs
 - express-session
 - connect-flash
