@@ -43,7 +43,12 @@ It allows users to **discover, share, and manage campgrounds** effortlessly.
 
 ## 🚀 Installation & Usage  
 
-1. **run on local**  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/your-username/yelpcamp.git
+   cd yelpcamp
+
+2. **run on local**  
 npm install []
 - ejs
 - express-session
