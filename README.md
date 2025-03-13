@@ -8,7 +8,7 @@ It allows users to **discover, share, and manage campgrounds** effortlessly.
 
 
 
-![Image](https://github.com/user-attachments/assets/9a3327ec-e5fd-4200-88f0-dee12a3abf5b)
+
 ## ✨ Features  
 ![Image](https://github.com/user-attachments/assets/c9f6036a-dd67-43cc-bf2b-8ab6b84c2fa0)
 ### 🏕️ Home Page  
@@ -18,7 +18,7 @@ It allows users to **discover, share, and manage campgrounds** effortlessly.
 ### 📍 Campgrounds Page  
 - Displays a list of available campgrounds with basic details  
 - Users can click on a campground to view more information  
-
+![Image](https://github.com/user-attachments/assets/84adade6-2a7e-450a-bcab-dca54b9732f8)
 ### 🔍 View Campground Details  
 - Shows the **name, description, location, and price per night**  
 - Users can **edit** or **delete** campgrounds  
@@ -30,6 +30,7 @@ It allows users to **discover, share, and manage campgrounds** effortlessly.
   - Description  
 - Click **Save** to apply changes  
 ![Image](https://github.com/user-attachments/assets/0bc6bb82-fb11-4fda-a5c6-c55fe0558a53)
+![Image](https://github.com/user-attachments/assets/9a3327ec-e5fd-4200-88f0-dee12a3abf5b)
 ### 🗑️ Delete Campground  
 - Users can remove a campground from the list  
 ![Image](https://github.com/user-attachments/assets/65cf75fa-3958-4706-abbc-247efc8ac3c7)
